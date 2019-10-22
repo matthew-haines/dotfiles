@@ -22,6 +22,14 @@ colorscheme onedark
 
 set backspace=indent,eol,start
 
+" Use OS clipboard
+set clipboard=unnamed
+" No error bells
+set noerrorbells
+" Dynamic Search Highlighting
+set incsearch
+" Mouse
+set mouse=a
 set autoindent
 set number
 set copyindent
