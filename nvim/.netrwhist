@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/matthew/Documents/cs146/final/p2/tests'
+let g:netrw_dirhist_7='/usr/local/lib/hipSYCL'
+let g:netrw_dirhist_6='/Users/matthew/Projects/sycl/cmake'
+let g:netrw_dirhist_5='/Users/matthew/Documents/math146/temp'
+let g:netrw_dirhist_4='/Users/matthew/Documents/cs146/q6'
+let g:netrw_dirhist_3='/Users/matthew/Documents/math146/temp'
+let g:netrw_dirhist_2='/Users/matthew/Projects/vulkan/.git'
+let g:netrw_dirhist_1='/Users/matthew/Projects/RayTracer/.vscode'
